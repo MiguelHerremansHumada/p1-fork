@@ -6,3 +6,12 @@ En este README se podrá visualizar la práctica 1 de PAT realizada. Además, se
 
 ### Imagen 1: Instalación VSCode
 ![Resultado del proyecto](images/vscode.png)
+
+### Imagen 2: Instalación IntellIJ
+![Resultado del proyecto](images/intellij.png)
+
+### Imagen 3: Instalación Maven
+![Resultado del proyecto](images/maven_version.png)
+
+### Imagen 4: Instalación Java
+![Resultado del proyecto](images/java_version.png)
